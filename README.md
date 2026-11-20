@@ -39,7 +39,7 @@ Minecraft **26.3**, Fabric Loader 0.20.1+, Fabric API.
 
 **[Скачать последнюю версию / Download the latest version](https://github.com/HolyDanger/Oxean-Mod/releases/latest)**
 
-Minecraft 26.3, Fabric Loader 0.20.1+, Minecraft 26.3, Fabric Loader 0.20.1+, нужен / requires [Fabric API](https://modrinth.com/mod/fabric-api).
+Minecraft 26.3, Fabric Loader 0.20.1+, нужен / requires [Fabric API](https://modrinth.com/mod/fabric-api).
 
 Положите файл в папку `mods` / Put the file into your `mods` folder.
 
