@@ -2,7 +2,7 @@
 
 Необязательный косметический мод для сервера Oxean.
 
-- Хвостики на модели игрока, без задержки
+- Хвостики на модели игрока
 - Только косметика, никаких преимуществ
 
 ## Скачать
@@ -24,6 +24,6 @@ Minecraft 26.3, Fabric Loader 0.20.1+, [Fabric API](https://modrinth.com/mod/fab
 
 ---
 
-**EN:** Optional cosmetic mod for the Oxean server: tails drawn on the player model, no lag. Cosmetic only.
+**EN:** Optional cosmetic mod for the Oxean server: tails drawn on the player model. Cosmetic only.
 
 © Oxean. All rights reserved. [LICENSE.txt](LICENSE.txt)
