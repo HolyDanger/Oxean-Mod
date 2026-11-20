@@ -1,0 +1,9 @@
+Oxean Client
+Copyright (c) 2026 oxean. All rights reserved.
+
+You may download and use this mod for personal use. Redistribution, modification
+or re-uploading without written permission is not allowed.
+
+The idea of making display entities that ride a player follow the body yaw
+client-side comes from "Smoother Server Cosmetics" (MIT License). No code was
+copied; this is an independent implementation for Minecraft 26.3.
